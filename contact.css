@@ -1,0 +1,166 @@
+footer
+{
+	margin: 0;
+	padding: 0;
+	background-color: #383838;
+	height: 100vh;
+	width: 100%;
+	overflow: hidden;
+	
+
+
+
+
+}
+/*rose text*/
+footer .head
+{
+	width: 100%;
+	height: 100px;
+	
+		text-align: center;
+}
+footer h1
+{
+	font-family: Raleway ExtraBold;
+	font-size: 40px;
+	padding: 0;
+	margin: 0;
+	color: #dd4f4f;
+	letter-spacing: 0.8px;
+	padding-top: 20px;
+}
+footer .contact
+{
+	width: 100%;
+	height: 300px;
+	text-align: center;
+	padding: 50px 0 0 0;
+}
+footer .foot
+{
+	width: 100%;
+	padding-top: 20px;
+	
+}
+footer form
+{
+
+}
+footer input
+{
+
+	width: 30%;
+	margin: 20px 0;
+	background: rgba(0,0,0,0);
+	border: none;
+	border-bottom: 1px solid #EAEAEA;
+}
+footer form .na
+{
+
+	width: 20%;
+	color: #dd4f4f;
+	font-size: 15px;
+	font-family: Raleway Medium;
+	
+}
+footer form .em
+{
+
+	width: 20%;
+	color: #dd4f4f;
+	font-size: 15px;
+	font-family: Raleway Medium;
+}
+footer form #msg
+{
+
+	width: 40%;
+	color: #dd4f4f;
+	font-size: 15px;
+	font-family: Raleway Medium;
+	
+}
+#msg
+{
+	margin-top: 60px;
+
+}
+
+footer button
+{
+	padding: 20px 32px;
+	font-size: 16px;
+	background-color: #383838;
+	border: solid 1px #dd4f4f;
+	border-radius: 15px;
+	margin-top: 30px;
+	color: #dd4f4f;
+}
+nav
+{
+	border: solid 1px white;
+	float: right;
+}
+
+footer .logomenu
+{
+
+	color: #dd4f4f;
+
+
+
+}
+
+footer .social
+{
+	
+	text-align: center;
+
+}
+footer .social a
+{
+	
+	color: #dd4f4f;;
+	font-size: 35px;
+	padding-right: 15px;
+	padding-left: 15px;
+
+
+}
+footer .foot
+{
+	
+}
+footer .foot ul
+{
+	margin: 0;
+	padding: 0px 0 0 25px;
+	font-size: 8px;
+}
+footer .foot ul li
+{
+	display: inline-block;
+	color: #383838;
+	list-style: none;
+	padding-right: 10px;
+
+}
+footer .foot ul li a
+{
+	
+	color: #dd4f4f;
+	text-decoration: none;
+	font-family: Helvetica;
+
+	
+
+}
+footer .logomenu p
+{
+
+	float: left;
+	text-align: left;
+
+}

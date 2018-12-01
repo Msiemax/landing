@@ -1,0 +1,172 @@
+
+ 
+@media only screen and (min-width: 960px)  {
+	section h3{font-size: 18px;}
+	header h1{font-size: 64px;}
+	header .text p{font-size: 18.23px;}
+	section .startxt p{font-size: 26px;}
+	section{padding-top: 110px;}
+	footer h1{font-size: 64px;}
+	footer .social a{font-size: 40px; float: right;}
+	footer .foot ul{font-size: 20px;}
+}
+ 
+
+@media only screen and (min-width: 813px) and (max-width: 959px) {
+	header h3{font-size: 18px;}
+	header h1{font-size: 64px;}
+	header .text p{font-size: 18.23px;}
+	section{padding-top: 110px;}
+	section .startxt p{font-size: 26px;}
+	.fa-caret-down{cursor: pointer;}
+	.fa-caret-down:hover{color: #383838;}
+}
+ 
+
+ 
+ /* iPhone5 reverse */
+@media only screen and (min-width: 480px) and (max-width: 568px) {
+	header h3{font-size: 15px;}
+	header h1{font-size: 55px;}
+	section{padding-top: 20px;}
+	footer h1{font-size: 35px;}
+	footer .contact{padding-top: 0px; height: 100px;}
+	footer .foot{padding-top: 0px;}
+	footer input{margin: 0;}
+	footer form .na{font-size: 13px;}
+	footer form .em{font-size: 13px;}
+	footer form #msg{font-size: 13px;}
+	#msg{margin-top: 30px;}
+	footer button{padding: 15px; font-size: 15px;}
+	footer .foot{padding-top: 60px; }
+	footer .social a{font-size: 20px; float: right;}
+}
+
+ /* iPhone 6/7/8 */
+@media only screen and (min-width: 375px) and (max-width: 375px) {
+
+	footer .foot{padding-top: 50px; }
+	footer .foot ul{font-size: 11px;}
+	footer .contact{padding-top: 100px;}
+	footer h1{padding-top: 40px;}
+	section{padding-top: 120px;}
+	header h1{padding-top: 10px;}
+}
+
+
+/* iPhone 6/7/8 reverse */
+@media only screen and (min-width: 667px) and (max-width: 667px) {
+
+	section{padding-top: 50px;}
+	header h3{font-size: 15px; padding: 0;}
+	header .text p{padding: 0;font-size: 18.23px;}
+	section .startxt p{font-size: 26px;}
+	footer h1{font-size: 50px;}
+	footer .contact{padding-top: 20px; height: 100px;}
+	footer .foot{padding-top: 0px;}
+	footer input{margin: 0;}
+	footer form .na{font-size: 13px;}
+	footer form .em{font-size: 13px;}
+	footer form #msg{font-size: 13px;}
+	#msg{margin-top: 30px;}
+	footer button{padding: 17px; font-size: 17px;}
+	footer .foot{padding-top: 90px; }
+	footer .social a{font-size: 25px; float: right;}
+	footer .foot ul{font-size: 11px;}
+
+	
+
+}
+ /* iPhone 6/7/8 Plus */
+@media only screen and (min-width: 414px) and (max-width: 414px) {
+
+	footer .foot{padding-top: 100px; }
+	footer .foot ul{font-size: 11px;}
+	footer .contact{padding-top: 120px;}
+	footer h1{font-size: 50px; padding-top: 40px;}
+	header h1{padding-top: 10px;}
+}
+
+ /* iPhone 6/7/8 Plus reverse */
+@media only screen and (min-width: 736px) and (max-width: 736px) {
+
+	section{padding-top: 50px;}
+	header h3{ padding: 0;}
+	header .text p{padding: 0;font-size: 18.23px;}
+	section .startxt p{font-size: 26px;}
+	footer h1{font-size: 50px;}
+	footer .contact{padding-top: 30px; height: 100px;}
+	footer input{margin: 0;}
+	footer form .na{font-size: 13px;}
+	footer form .em{font-size: 13px;}
+	footer form #msg{font-size: 13px;}
+	#msg{margin-top: 30px;}
+	footer button{padding: 17px; font-size: 17px;}
+	footer .foot{padding-top:120px; }
+	footer .social a{font-size: 25px; float: right;}
+	footer .foot ul{font-size: 11px;}
+
+}
+
+ /* iPhone X/XS */
+@media only screen and (min-width: 375px) and (max-width: 375px) and (min-height: 812px) and (min-height: 812px) {
+
+	footer .foot{padding-top: 100px; }
+	footer .foot ul{font-size: 11px;}
+	footer .contact{padding-top: 190px;}
+	footer h1{font-size: 50px; padding: 40px 10px 0 10px;}
+	header h1{padding-top: 10px;}
+}
+
+ /* iPhone X/XS reserve */
+@media only screen and (min-width: 812px) and (max-width: 812px) {
+
+	section{padding-top: 50px;}
+	header h3{ padding: 0;}
+	header .text p{padding: 0;font-size: 18.23px;}
+	section .startxt p{font-size: 26px;}
+	footer h1{font-size: 60px;}
+	footer .contact{padding-top: 30px; height: 100px;}
+	footer input{margin: 0;}
+	footer form .na{font-size: 15px;}
+	footer form .em{font-size: 15px;}
+	footer form #msg{font-size: 15px;}
+	#msg{margin-top: 30px;}
+	footer button{padding: 17px; font-size: 17px;}
+	footer .foot{padding-top:90px; }
+	footer .social a{font-size: 30px; float: right;}
+	footer .foot ul{font-size: 14px;}
+	
+	
+}
+
+ /* Galaxy S9/S9+ */
+@media only screen and (min-width: 360px) and (max-width: 360px) {
+
+	footer .foot{padding-top: 60px; }
+	footer .foot ul{font-size: 9px;}
+	footer .contact{padding-top: 160px;}
+	footer h1{font-size: 50px; padding: 40px 10px 0 10px;}
+	header h1{padding-top: 10px;}
+}
+ /* Galaxy S9/S9+ reserve */
+@media only screen and (min-width: 740px) and (max-width: 740px) {
+
+	section{padding-top: 50px;}
+	header h3{ padding: 0; font-size: 15px;}
+	header .text p{padding: 0;font-size: 18.23px;}
+	section .startxt p{font-size: 26px;}
+	footer h1{font-size: 60px;}
+	footer .contact{padding-top: 20px; height: 100px;}
+	footer input{margin: 0;}
+	footer form .na{font-size: 15px;}
+	footer form .em{font-size: 15px;}
+	footer form #msg{font-size: 15px;}
+	#msg{margin-top: 30px;}
+	footer button{padding: 17px; font-size: 17px;}
+	footer .foot{padding-top:90px; }
+	footer .social a{font-size: 30px; float: right;}
+	footer .foot ul{font-size: 14px;}
+	
+	
+}

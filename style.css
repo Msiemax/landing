@@ -1,0 +1,108 @@
+html
+{
+	scroll-behavior: smooth;
+}
+body
+{
+	margin: 0;
+	padding: 0;
+
+}
+header
+{
+	
+	height: 100vh;
+	width: 100%;
+	background-color: #8a8a8a;
+	overflow: hidden;
+	text-align: center;
+
+
+}
+section 
+{
+
+	width: 100%;
+	text-align: center;
+	padding-top: 110px;
+	
+
+
+
+}
+section h3
+{
+
+	font-size: 11px;
+	font-family: Raleway Medium;
+	color: #757575;
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+}
+section h1
+{
+	font-family: Raleway ExtraBold;
+	font-size: 50px;
+	padding: 0;
+	margin: 0;
+	color: #383838;
+	letter-spacing: 0.8px;
+	text-align: center;
+
+}
+section .txtbg
+{
+	background-color: #333333;
+	width: 623px;
+	height: 42px;
+	border-radius: 10px 10px 10px 10px;
+	text-align: center;
+
+}
+header .text p
+{
+	font-size: 13px;
+	padding-top: 10px;
+	text-align: center;
+
+}
+
+section .startxt p
+{
+	font-size: 22px;
+	text-align: center;
+
+}
+#arrow
+{
+	text-align: center;
+	color: white;
+	overflow: hidden;
+	transition: 1s;
+}
+.fa-caret-down
+{
+	font-size: 50px;
+	height: 50px;
+	width: 50px;
+	animation: arrow 1.8s infinite linear;
+	
+}
+
+main
+{
+	margin: 0;
+	padding: 0;
+	background-color: black ;
+	height: 100vh;
+	width: 100%;
+	overflow: hidden;
+}
+
+@keyframes arrow 
+{
+	0% {transform: translateY(-50px)}
+	50% {transform: translateY(0px)}
+	100% {transform: translateY(50px)}
+}
