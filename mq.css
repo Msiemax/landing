@@ -1,18 +1,24 @@
 
  
+
+
 @media only screen and (min-width: 960px)  {
 	section h3{font-size: 18px;}
 	header h1{font-size: 64px;}
 	header .text p{font-size: 18.23px;}
 	section .startxt p{font-size: 26px;}
-	section{padding-top: 110px;}
+	section{padding-top: 150px;}
 	footer h1{font-size: 64px;}
-	footer .social a{font-size: 40px; float: right;}
-	footer .foot ul{font-size: 20px;}
+	footer .social a{font-size: 30px; float: right;}
+	footer .foot ul{font-size: 15px;}
+	footer .foot { padding-top: 230px;}
+	footer .contact{padding-top: 100px;}
+	footer button{font-size: 20px;}
+
 }
  
 
-@media only screen and (min-width: 813px) and (max-width: 959px) {
+@media only screen and (min-width: 569px) and (max-width: 959px) {
 	header h3{font-size: 18px;}
 	header h1{font-size: 64px;}
 	header .text p{font-size: 18.23px;}
@@ -20,11 +26,16 @@
 	section .startxt p{font-size: 26px;}
 	.fa-caret-down{cursor: pointer;}
 	.fa-caret-down:hover{color: #383838;}
+	footer h1{font-size: 57px;}
+	footer .social a{font-size: 25px; float: right;}
+	footer .foot ul{font-size: 12px;}
+	footer .foot { padding-top: 230px;}
+	footer .contact{padding-top: 100px;}
+	footer button{font-size: 20px;}
 }
- 
 
  
- /* iPhone5 reverse */
+ iPhone5 reverse 
 @media only screen and (min-width: 480px) and (max-width: 568px) {
 	header h3{font-size: 15px;}
 	header h1{font-size: 55px;}
@@ -42,6 +53,7 @@
 	footer .social a{font-size: 20px; float: right;}
 }
 
+
  /* iPhone 6/7/8 */
 @media only screen and (min-width: 375px) and (max-width: 375px) {
 
@@ -54,7 +66,7 @@
 }
 
 
-/* iPhone 6/7/8 reverse */
+/*iPhone 6/7/8 reverse */
 @media only screen and (min-width: 667px) and (max-width: 667px) {
 
 	section{padding-top: 50px;}
@@ -87,7 +99,7 @@
 	header h1{padding-top: 10px;}
 }
 
- /* iPhone 6/7/8 Plus reverse */
+/*iPhone 6/7/8 Plus reverse */
 @media only screen and (min-width: 736px) and (max-width: 736px) {
 
 	section{padding-top: 50px;}
@@ -118,8 +130,9 @@
 	header h1{padding-top: 10px;}
 }
 
- /* iPhone X/XS reserve */
-@media only screen and (min-width: 812px) and (max-width: 812px) {
+
+/*iPhone X/XS reserve */
+@media only screen and (min-width: 667px) and (max-width: 812px) {
 
 	section{padding-top: 50px;}
 	header h3{ padding: 0;}
@@ -149,7 +162,7 @@
 	footer h1{font-size: 50px; padding: 40px 10px 0 10px;}
 	header h1{padding-top: 10px;}
 }
- /* Galaxy S9/S9+ reserve */
+/*Galaxy S9/S9+ reserve */
 @media only screen and (min-width: 740px) and (max-width: 740px) {
 
 	section{padding-top: 50px;}
