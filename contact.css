@@ -23,19 +23,17 @@ footer .head
 footer h1
 {
 	font-family: Raleway ExtraBold;
-	font-size: 40px;
-	padding: 0;
-	margin: 0;
+	font-size: 30px;
 	color: #dd4f4f;
 	letter-spacing: 0.8px;
-	padding-top: 20px;
+
 }
 footer .contact
 {
 	width: 100%;
-	height: 300px;
+	height: 100px;
 	text-align: center;
-	padding: 50px 0 0 0;
+
 }
 footer .foot
 {
@@ -91,7 +89,7 @@ footer form #msg
 footer button
 {
 	padding: 20px 32px;
-	font-size: 16px;
+	font-size: 10px;
 	background-color: #383838;
 	border: solid 1px #dd4f4f;
 	border-radius: 15px;
@@ -123,7 +121,7 @@ footer .social a
 {
 	
 	color: #dd4f4f;;
-	font-size: 35px;
+	font-size: 25px;
 	padding-right: 15px;
 	padding-left: 15px;
 
@@ -131,7 +129,7 @@ footer .social a
 }
 footer .foot
 {
-	
+	padding-top: 180px
 }
 footer .foot ul
 {
