@@ -35,7 +35,7 @@
 }
 
  
- /*iPhone5 reverse */
+ /*iPhone5 reverse 
 @media only screen and (min-width: 480px) and (max-width: 568px) {
 	header h3{font-size: 15px;}
 	header h1{font-size: 55px;}
@@ -52,22 +52,21 @@
 	footer .foot{padding-top: 60px; }
 	footer .social a{font-size: 20px; float: right;}
 }
+*/
 
+ /* iPhone 6/7/8 @media only screen and (min-width: 321px) and (max-width: 375px) {
 
- /* iPhone 6/7/8 */
-@media only screen and (min-width: 375px) and (max-width: 375px) {
-
-	footer .foot{padding-top: 50px; }
+	footer .foot{ }
 	footer .foot ul{font-size: 11px;}
-	footer .contact{padding-top: 100px;}
+	footer .contact{}
 	footer h1{padding-top: 40px;}
 	section{padding-top: 120px;}
 	header h1{padding-top: 10px;}
 }
+*/
 
-
-/*iPhone 6/7/8 reverse */
-@media only screen and (min-width: 667px) and (max-width: 667px) {
+/*iPhone 6/7/8 reverse 
+@media only screen and (min-width: 667px) and (max-width: 667px) and (min-height: 319px) and (max-height: 450px) {
 
 	section{padding-top: 50px;}
 	header h3{font-size: 15px; padding: 0;}
@@ -84,23 +83,23 @@
 	footer button{padding: 17px; font-size: 17px;}
 	footer .foot{padding-top: 90px; }
 	footer .social a{font-size: 25px; float: right;}
-	footer .foot ul{font-size: 11px;}
+	footer .foot ul{font-size: 11px;}*/
 
 	
 
 }
- /* iPhone 6/7/8 Plus */
+ /* iPhone 6/7/8 Plus 
 @media only screen and (min-width: 414px) and (max-width: 414px) {
 
 	footer .foot{padding-top: 100px; }
 	footer .foot ul{font-size: 11px;}
 	footer .contact{padding-top: 120px;}
 	footer h1{font-size: 50px; padding-top: 40px;}
-	header h1{padding-top: 10px;}
+	header h1{padding-top: 10px;}*/
 }
 
-/*iPhone 6/7/8 Plus reverse */
-@media only screen and (min-width: 736px) and (max-width: 736px) {
+/*iPhone 6/7/8 Plus reverse 
+@media only screen and (min-width: 736px) and (max-width: 736px) and (min-height: 319px) and (max-height: 450px) {
 
 	section{padding-top: 50px;}
 	header h3{ padding: 0;}
@@ -118,21 +117,21 @@
 	footer .social a{font-size: 25px; float: right;}
 	footer .foot ul{font-size: 11px;}
 
-}
+}*/
 
- /* iPhone X/XS */
+ /* iPhone X/XS 
 @media only screen and (min-width: 375px) and (max-width: 375px) and (min-height: 812px) and (min-height: 812px) {
 
-	footer .foot{padding-top: 100px; }
+	footer .foot{padding-bottom: 250px; }
 	footer .foot ul{font-size: 11px;}
-	footer .contact{padding-top: 190px;}
+	footer .contact{padding-top: 230px; height: 100px;}
 	footer h1{font-size: 50px; padding: 40px 10px 0 10px;}
 	header h1{padding-top: 10px;}
-}
+}*/
 
 
-/*iPhone X/XS reserve */
-@media only screen and (min-width: 667px) and (max-width: 812px) {
+/*iPhone X/XS reserve 
+@media only screen and (min-width: 667px) and (max-width: 812px) and (min-height: 319px) and (max-height: 450px) {
 
 	section{padding-top: 50px;}
 	header h3{ padding: 0;}
@@ -150,20 +149,20 @@
 	footer .social a{font-size: 30px; float: right;}
 	footer .foot ul{font-size: 14px;}
 	
-	
+	*/
 }
 
- /* Galaxy S9/S9+ */
+ /* Galaxy S9/S9+ 
 @media only screen and (min-width: 360px) and (max-width: 360px) {
 
 	footer .foot{padding-top: 60px; }
 	footer .foot ul{font-size: 9px;}
 	footer .contact{padding-top: 160px;}
 	footer h1{font-size: 50px; padding: 40px 10px 0 10px;}
-	header h1{padding-top: 10px;}
+	header h1{padding-top: 10px;}*/
 }
-/*Galaxy S9/S9+ reserve */
-@media only screen and (min-width: 740px) and (max-width: 740px) {
+/*Galaxy S9/S9+ reserve 
+@media only screen and (min-width: 740px) and (max-width: 740px) and (min-height: 319px) and (max-height: 450px) {
 
 	section{padding-top: 50px;}
 	header h3{ padding: 0; font-size: 15px;}
@@ -182,4 +181,4 @@
 	footer .foot ul{font-size: 14px;}
 	
 	
-}
+}*/
