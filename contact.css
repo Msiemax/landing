@@ -1,11 +1,13 @@
 footer
 {
-	margin: 0;
+	margin-bottom: 0;
 	padding: 0;
 	background-color: #383838;
 	height: 100vh;
 	width: 100%;
 	overflow: hidden;
+
+
 	
 
 
@@ -23,16 +25,18 @@ footer .head
 footer h1
 {
 	font-family: Raleway ExtraBold;
-	font-size: 30px;
+	font-size: 40px;
 	color: #dd4f4f;
 	letter-spacing: 0.8px;
+
 
 }
 footer .contact
 {
 	width: 100%;
-	height: 100px;
+	height: 150px;
 	text-align: center;
+	padding-top: 35px;
 
 }
 footer .foot
@@ -89,7 +93,7 @@ footer form #msg
 footer button
 {
 	padding: 20px 32px;
-	font-size: 10px;
+	font-size: 15px;
 	background-color: #383838;
 	border: solid 1px #dd4f4f;
 	border-radius: 15px;
@@ -98,7 +102,6 @@ footer button
 }
 nav
 {
-	border: solid 1px white;
 	float: right;
 }
 
@@ -106,6 +109,7 @@ footer .logomenu
 {
 
 	color: #dd4f4f;
+	padding-top: 50px;
 
 
 
@@ -121,7 +125,7 @@ footer .social a
 {
 	
 	color: #dd4f4f;;
-	font-size: 25px;
+	font-size: 35px;
 	padding-right: 15px;
 	padding-left: 15px;
 
@@ -135,7 +139,7 @@ footer .foot ul
 {
 	margin: 0;
 	padding: 0px 0 0 25px;
-	font-size: 8px;
+	font-size: 10px;
 }
 footer .foot ul li
 {
