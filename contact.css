@@ -28,6 +28,7 @@ footer h1
 	font-size: 40px;
 	color: #dd4f4f;
 	letter-spacing: 0.8px;
+	padding-top: 20px;
 
 
 }
@@ -98,7 +99,7 @@ footer button
 	background-color: #383838;
 	border: solid 1px #dd4f4f;
 	border-radius: 15px;
-	margin-top: 30px;
+	margin-top: 10px;
 	color: #dd4f4f;
 }
 nav
@@ -110,7 +111,7 @@ footer .logomenu
 {
 
 	color: #dd4f4f;
-	padding-top: 50px;
+	padding-top: 20px;
 
 
 
@@ -134,7 +135,8 @@ footer .social a
 }
 footer .foot
 {
-	padding-top: 180px
+	padding-top: 140px;
+	text-align: center;
 }
 footer .foot ul
 {

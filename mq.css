@@ -3,10 +3,11 @@
 
 
 @media only screen and (min-width: 960px)  {
-
+	header h3{font-size: 18px;}
+	header h1{font-size: 64px;}
 	section{padding-top: 150px;}
 	footer h1{font-size: 64px;}
-	footer .foot { text-align: center;}
+	footer .foot { text-align: center; padding-top: 150px;}
 	footer .foot ul{font-size: 15px;}
 	footer button{font-size: 20px;}
 	footer .social a{font-size: 35px; }
@@ -25,31 +26,32 @@
 	.fa-caret-down:hover{color: #383838;}
 	footer h1{font-size: 57px;}
 	footer .social{text-align: center;}
-	footer .social a{font-size: 35px; }
-	footer .foot ul{font-size: 15px;}
-	footer .foot { text-align: center;}
-	footer button{font-size: 20px;}
+	footer .social a{font-size: 32px; }
+	footer .foot ul{font-size: 13px;}
+	footer .foot { text-align: center; padding-top: 150px;}
+	footer button{font-size: 18px;}
 }
 
- 
- /*iPhone5 reverse 
-@media only screen and (min-width: 480px) and (max-width: 568px) {
+/*iPhone5 reverse */
+@media (orientation: landscape) and (max-height: 450px){
 	header h3{font-size: 15px;}
 	header h1{font-size: 55px;}
 	section{padding-top: 20px;}
-	footer h1{font-size: 35px;}
-	footer .contact{padding-top: 0px; height: 100px;}
+	footer h1{font-size: 45px; padding-top: 10px; margin: 0;}
+	footer .contact{padding: 0px; height: 100px;}
 	footer .foot{padding-top: 0px;}
 	footer input{margin: 0;}
 	footer form .na{font-size: 13px;}
 	footer form .em{font-size: 13px;}
 	footer form #msg{font-size: 13px;}
 	#msg{margin-top: 30px;}
-	footer button{padding: 15px; font-size: 15px;}
-	footer .foot{padding-top: 60px; }
-	footer .social a{font-size: 20px; float: right;}
+	footer .social{text-align: center;}
+	footer button{padding: 15px; font-size: 13px;}
+	footer .foot{padding-top: 40px; text-align: center;}
+	footer .social a{font-size: 25px;}
+	footer .foot ul{font-size: 10px;}
 }
-*/
+
 
  /* iPhone 6/7/8 @media only screen and (min-width: 321px) and (max-width: 375px) {
 
