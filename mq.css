@@ -8,11 +8,13 @@
 	header .text p{font-size: 18.23px;}
 	section .startxt p{font-size: 26px;}
 	section{padding-top: 150px;}
+	.fa-caret-down{cursor: pointer;}
+	.fa-caret-down:hover{color: #383838;}
 	footer h1{font-size: 64px;}
-	footer .social a{font-size: 30px; float: right;}
+	footer .social{text-align: center;}
+	footer .social a{font-size: 30px; }
 	footer .foot ul{font-size: 15px;}
-	footer .foot { padding-top: 230px;}
-	footer .contact{padding-top: 100px;}
+	footer .foot { text-align: center;}
 	footer button{font-size: 20px;}
 
 }
@@ -27,10 +29,10 @@
 	.fa-caret-down{cursor: pointer;}
 	.fa-caret-down:hover{color: #383838;}
 	footer h1{font-size: 57px;}
-	footer .social a{font-size: 25px; float: right;}
-	footer .foot ul{font-size: 12px;}
-	footer .foot { padding-top: 230px;}
-	footer .contact{padding-top: 100px;}
+	footer .social{text-align: center;}
+	footer .social a{font-size: 30px; }
+	footer .foot ul{font-size: 15px;}
+	footer .foot { text-align: center;}
 	footer button{font-size: 20px;}
 }
 
